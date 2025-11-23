@@ -1,13 +1,13 @@
 # Expressive Resume & Cover Letter LaTeX Template
 
-This repository contains the Expressive Resume LaTeX template along with supporting files to create beautifully formatted resumes and cover letters with minimal LaTeX knowledge. The templates are designed to be easy to use, allowing you to focus on writing your content rather than wrestling with formatting code.
+This repository provides the Expressive Resume LaTeX template and supporting files to create professional, well-formatted resumes and cover letters with minimal LaTeX knowledge. The templates prioritize simplicity and ease of use, allowing users to focus on content rather than formatting.
 
 ## Features
 
-- Minimal setup: start writing your resume or cover letter without needing to scroll through hundreds of lines of formatting code.
-- Custom LaTeX commands simplify adding common resume elements like headers, objectives, and contact info.
-- Compatible with most LaTeX typesetting engines (written in LaTeX2e).
-- Includes a paired cover letter template to complement your resume.
+- Minimal setup and configuration to start writing resumes or cover letters immediately.
+- Custom LaTeX commands to simplify common resume elements such as headers, objectives, and contact information.
+- Compatible with most LaTeX typesetting engines (built on LaTeX2e).
+- Includes paired cover letter template to complement the resume.
 
 ## Tech Stack
 
@@ -23,7 +23,7 @@ This repository contains the Expressive Resume LaTeX template along with support
 
 ### Installation
 
-1. Clone this repository:
+1. Clone the repository:
 
 ```bash
 git clone https://github.com/justin-napolitano/cover-letter.git
@@ -34,7 +34,7 @@ cd cover-letter
 
 ### Usage
 
-1. Create a new `.tex` file in the `expressive-resume` folder.
+1. Create a new `.tex` file inside the `expressive-resume` folder.
 2. Use the `ExpressiveResume` document class:
 
 ```tex
@@ -70,25 +70,22 @@ cd cover-letter
 }
 ```
 
-5. Compile with your preferred LaTeX engine (e.g., `pdflatex`).
+5. Compile the `.tex` file with your preferred LaTeX engine (e.g., `pdflatex`).
 
 ## Project Structure
 
 ```
 cover-letter/
-├── expressive-resume/       # LaTeX template files and README for expressive resume
-│   └── README.md             # Documentation specific to the template
-├── References.pdf           # Example or reference PDF
-├── texput.log               # LaTeX compilation log file
+├── expressive-resume/    # LaTeX templates and related files
+├── README.md             # This file
+├── References.pdf        # Reference document (purpose unspecified)
+├── texput.log            # LaTeX compilation log
 ```
 
 ## Future Work / Roadmap
 
-- Add comprehensive example `.tex` files demonstrating cover letter usage.
-- Improve documentation with more usage examples and troubleshooting tips.
-- Develop automated build scripts for easier PDF generation.
-- Expand customization options for different resume styles and layouts.
-
----
-
-*Note: This repository currently lacks a detailed description and some files like `cover_page.tex` appear incomplete or cause compilation errors. Contributions to improve stability and documentation are welcome.*
+- Improve documentation with more usage examples.
+- Add support for additional resume sections and customization options.
+- Provide sample `.tex` files demonstrating cover letter use.
+- Automate PDF compilation via scripts or Makefile.
+- Enhance error handling and troubleshooting guidance for LaTeX compilation.
