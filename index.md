@@ -20,6 +20,13 @@ seoSecondaryKeywords:
   - expressive resume
   - latex2e
 seoOptimized: true
+topicFamily: latex
+topicFamilyConfidence: 1
+topicFamilyNotes: >-
+  The post clearly focuses on a LaTeX resume and cover letter template project, discussing LaTeX2e
+  document class, commands, usage workflow, and technical details specific to LaTeX professional
+  document preparation. This directly matches the 'latex' family description and example slugs
+  including github-cover-letter.
 ---
 
 # Expressive Resume & Cover Letter LaTeX Template: Technical Overview
@@ -68,3 +75,4 @@ The template assumes users have a working LaTeX environment. It does not automat
 Expressive Resume offers a pragmatic solution to the complexity of LaTeX resume templates by encapsulating formatting in a custom class and commands. It prioritizes ease of use and content focus, making it suitable for users who want professional documents without deep LaTeX expertise. The paired cover letter template complements the resume, providing a consistent presentation.
 
 This documentation serves as a technical reference for future maintenance, extension, or integration with other tooling.
+
