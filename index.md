@@ -1,12 +1,26 @@
 ---
-slug: "github-cover-letter"
-title: "cover-letter"
-repo: "justin-napolitano/cover-letter"
-githubUrl: "https://github.com/justin-napolitano/cover-letter"
-generatedAt: "2025-11-23T08:46:11.490736Z"
-source: "github-auto"
+slug: github-cover-letter
+title: Expressive Resume & Cover Letter LaTeX Template for Simplified Document Creation
+repo: justin-napolitano/cover-letter
+githubUrl: https://github.com/justin-napolitano/cover-letter
+generatedAt: '2025-11-23T08:46:11.490736Z'
+source: github-auto
+summary: >-
+  Technical overview of a LaTeX2e resume and cover letter template reducing formatting complexity
+  through custom commands and declarative input.
+tags:
+  - latex
+  - resume-template
+  - cover-letter
+  - document-class
+  - latex2e
+seoPrimaryKeyword: latex resume template
+seoSecondaryKeywords:
+  - cover letter template
+  - expressive resume
+  - latex2e
+seoOptimized: true
 ---
-
 
 # Expressive Resume & Cover Letter LaTeX Template: Technical Overview
 
