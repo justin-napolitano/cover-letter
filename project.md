@@ -7,8 +7,8 @@ githubUrl: https://github.com/justin-napolitano/cover-letter
 generatedAt: '2025-11-24T21:34:19.050Z'
 source: github-auto
 summary: >-
-  A straightforward LaTeX template for creating resumes and cover letters with
-  minimal setup, focusing on content over formatting.
+  A straightforward LaTeX template for creating resumes and cover letters with minimal setup,
+  focusing on content over formatting.
 tags:
   - latex
   - resume
@@ -25,8 +25,8 @@ seoSecondaryKeywords:
   - pdf generation with latex
   - resume formatting with latex
 seoOptimized: true
-topicFamily: null
-topicFamilyConfidence: null
+topicFamily: latex
+topicFamilyConfidence: 0.9
 kind: project
 entryLayout: project
 showInProjects: true
@@ -124,4 +124,5 @@ cover-letter/
 - Provide sample `.tex` files demonstrating cover letter use.
 - Automate PDF compilation via scripts or Makefile.
 - Enhance error handling and troubleshooting guidance for LaTeX compilation.
+
 
