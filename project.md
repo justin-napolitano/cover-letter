@@ -1,27 +1,29 @@
 ---
 slug: github-cover-letter
 id: github-cover-letter
-title: LaTeX Template for Resumes and Cover Letters
+title: LaTeX Resume and Cover Letter Template Repository
 repo: justin-napolitano/cover-letter
 githubUrl: https://github.com/justin-napolitano/cover-letter
 generatedAt: '2025-11-24T21:34:19.050Z'
 source: github-auto
 summary: >-
-  A simple LaTeX template for creating professional resumes and cover letters
-  with minimal setup and customization.
+  A straightforward LaTeX template for creating resumes and cover letters with
+  minimal setup, focusing on content over formatting.
 tags:
   - latex
   - resume
   - cover-letter
   - tex
   - expressive-resume
-seoPrimaryKeyword: latex resume template
-seoSecondaryKeywords:
-  - cover letter template
-  - pdf generation with latex
-  - minimal latex setup
+  - cover letter
+  - pdf generation
   - expressive resume
-  - latex for resumes
+seoPrimaryKeyword: latex resume cover letter template
+seoSecondaryKeywords:
+  - create resume with latex
+  - latex cover letter template
+  - pdf generation with latex
+  - resume formatting with latex
 seoOptimized: true
 topicFamily: null
 topicFamilyConfidence: null
